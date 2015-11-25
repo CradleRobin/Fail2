@@ -3,7 +3,7 @@
 
     <string name="title_activity_home">Fail2</string>
     <string name="App">App Button</string>
-    <string name="Show_Apps">ShowApps\nCONTENT</string>
+    <string name="Show_Apps">showApps\nCONTENT</string>
 
     <string name="title_activity_applistactivity">Fail3</string>
 
